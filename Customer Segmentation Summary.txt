@@ -1,0 +1,20 @@
+Project:
+For every customer, which region they belong to and by which mode of channel is the spending happening? There are 2 kind of channels as you can see, 
+there is a retail channel, and then there is another channel which consists of hotel/restaurant or cafe. Similarly, there are 3 regions; there is Lisnon, 
+Oporto or another particular channel.
+
+Techniques Used:
+Descriptive Statistics
+Data Exploration
+Data Preparation
+Data Manipulation
+K-means Clustering
+
+Insights:
+1) There are a couple of customers in Cluster3 who spend a lot on milk, in this case. And they seem to be spending low on grocery; but they are spending high on the product 'fresh' as well. These customers will cater to customers who spend high on milk and fresh which spend low on groceries.
+
+2) Customers who spend a lot on milk and on grocery also seem to be spending a lot on detergents paper. Cluster6 & Cluster7 people follow this trend and they belong to either
+of Region 2 or 3.
+
+3) Customer in Cluster4 spend high on fresh products and are not from Hotel/Restaurant or cafe where Fresh products are required on daily basis. Customers from these clusters
+belong mostly from Region1.
